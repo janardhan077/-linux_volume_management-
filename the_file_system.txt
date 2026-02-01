@@ -1,0 +1,8 @@
+| Filesystem | Use                      |
+| ---------- | ------------------------ |
+| ext4       | Default Linux            |
+| xfs        | Large files, servers     |
+| ext3       | Older Linux              |
+| vfat       | USB / Windows compatible |
+| ntfs       | Windows                  |
+
